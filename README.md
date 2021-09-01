@@ -5,9 +5,9 @@ This is an implementation of the concept of marked-reality where AR markers act 
 
 <div align="center">
 
-<img src="C:\Users\harsh\OneDrive\Desktop\vertical 1.jpg" width="350" height="590">
-<img src="C:\Users\harsh\OneDrive\Desktop\2.jpg" width="350" height="590">
-<img src="C:\Users\harsh\OneDrive\Desktop\3.jpg" width="700" height="450">
-<img src="C:\Users\harsh\OneDrive\Desktop\4.jpg" width="700" height="450">
+<img src="https://user-images.githubusercontent.com/77115160/131669773-3eec474c-b53d-46db-9e95-98047d4432ea.jpg" width="350" height="590">
+<img src="https://user-images.githubusercontent.com/77115160/131669791-4f760284-64e3-4268-9154-10e48a3e51b8.jpg" width="350" height="590">
+<img src="https://user-images.githubusercontent.com/77115160/131669808-13aea5c4-fbc9-4bce-8302-ea8cae81e55e.jpg" width="700" height="450">
+<img src="https://user-images.githubusercontent.com/77115160/131669818-0c41a232-bd21-43eb-a8ac-776a7f6b1702.jpg" width="700" height="450">
 </div>
 
